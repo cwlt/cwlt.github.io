@@ -3,14 +3,14 @@
 The purpose of this project is to provide a simple jumping-off point for a Jekyll-based github.io site.
 
 
-### Prerequisites
+## Prerequisites
   * git (a tutorial on installing git can be found [here](https://www.atlassian.com/git/tutorials/install-git))
   * Jekyll (optional; get it [here](https://jekyllrb.com/docs/installation/)
   * Know how to access your terminal and some basics of using it (look [here](https://www.davidbaumgold.com/tutorials/command-line/) for an intro).
   Windows users may want to look into the Git Bash emulator (more info [here](https://www.atlassian.com/git/tutorials/install-git), under the heading Install Git on Windows).
 
   
-### Fork and Deploy the Template
+## Fork and Deploy the Template
   * Go to [github.com](https://www.github.com) to set yourself up an account if you don't have one already.
   * Navigate to the template's GitHub page, [github.com/cwlt/cwlt.github.io](https://www.github.com/cwlt/cwlt.github.io) (you're probably already here!).
   * On the upper right side of the page, click `Fork`.
