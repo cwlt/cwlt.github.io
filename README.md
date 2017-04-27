@@ -24,8 +24,7 @@ The purpose of this project is to provide a simple jumping-off point for a Jekyl
 ## Customization
  * Navigate to your github.io's repository, Navigate to the template's GitHub page, `github.com/username/username.github.io`, replacing `username` with your username.
  * Use the `Clone or Download` button to clone the repository to your own computer to start customizing on it!
- * To customize the text, search the project for text that you want to replace.
- Replacing
+ * To customize the text, search the project for text that you want to replace. The text can be edited in `README.md`
  * You can share your resume by replacing `resources/resume.pdf` with your own.
  * To add a new page, you will need to create a new Markdown file with the page's content and register it with the menu bar.
  Use the about page's entry in `_data/menu.yml` and `about.md` as a guide.
